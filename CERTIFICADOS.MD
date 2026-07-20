@@ -4,5 +4,7 @@
 
 **Mini Curso React Native (pt-br)**
 
-![pdf certificado Mini Curso React Native](https://github.com/waltbcc/certificados/blob/main/publicos/Certificado_Minicurso%20React%20Native.pdf)
+<iframe src="publico/Certificado_Minicurso React Native.pdf" width="100%" height="600px">
+  Seu navegador não suporta a visualização de PDFs.
+</iframe>
 
